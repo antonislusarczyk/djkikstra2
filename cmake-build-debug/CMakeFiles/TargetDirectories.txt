@@ -1,0 +1,3 @@
+C:/Users/antek/CLionProjects/djkikstra2/cmake-build-debug/CMakeFiles/djkikstra2.dir
+C:/Users/antek/CLionProjects/djkikstra2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/antek/CLionProjects/djkikstra2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
